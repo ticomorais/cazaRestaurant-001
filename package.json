@@ -1,0 +1,12 @@
+{
+  "name": "template_rest_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass -o css scss -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
