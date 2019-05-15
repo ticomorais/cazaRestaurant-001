@@ -274,7 +274,7 @@ body {
     background-color: #720202;
     color: white; }
 
-.secundary-btn {
+.secondary-btn {
   widows: 170px;
   height: 45px;
   font-family: "itc-avant-garde-gothic-pro", normal;
@@ -290,7 +290,7 @@ body {
   cursor: pointer;
   padding: 5px;
   transition: all 0.4s; }
-  .secundary-btn:hover {
+  .secondary-btn:hover {
     background-color: #f29f04;
     color: #720202; }
 
