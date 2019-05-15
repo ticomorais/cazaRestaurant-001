@@ -191,6 +191,15 @@ body {
   background: linear-gradient(rgba(216, 181, 4, 0.8), rgba(0, 0, 0, 0.6)), url(../assets/menu.jpg) center no-repeat;
   background-size: cover; }
 
+.menu-heading-text {
+  font-family: "itc-avant-garde-gothic-pro", normal;
+  font-size: 30px;
+  color: #f29f04;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 3vh; }
+
 .hamburguer-menu {
   width: 40px;
   height: 40px;

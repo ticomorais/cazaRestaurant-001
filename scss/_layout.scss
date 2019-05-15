@@ -223,3 +223,10 @@
     url(../assets/menu.jpg) center no-repeat;
   background-size: cover;
 }
+.menu-heading-text {
+  font-family: $font-primary;
+  font-size: 30px;
+  color: $color2;
+  @include textStyles3;
+  padding: 3vh;
+}
